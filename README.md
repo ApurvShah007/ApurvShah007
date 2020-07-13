@@ -1,17 +1,43 @@
-### Hi there 👋
+### Hi there 👋 I am [Apurv Shah](apurvshah007.github.io)
+
+<a href="https://www.linkedin.com/in/apurv-shah/">
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/apurvshah123/">
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<br />
+<br />
+
+<img align=center style='border-radius:100%' height=100 src=ApurvShah.jpeg>
+
 
 <!--
 **ApurvShah007/ApurvShah007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<div>
+ <p>
+
+I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science. I am fascinated in Trading and Financial Markets.I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading.
+
+I am always on the lookout for new projects to work on and new people to collaborate with.Do chek out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+
+</h4>
+</div>
+
+<br />
+
+<div><p>The projects I am currently working on: </p></div>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic_trading)](https://github.com/ApurvShah007/Algorithmic_trading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=ApurvShah007.github.io)](https://github.com/ApurvShah007/ApurvShah007.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+
+<br />
+
+<div><p>My profile overview: </p></div>
+
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true&hide=["prs"])
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ApurvShah007.ApurvShah007)
