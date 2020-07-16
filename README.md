@@ -38,5 +38,5 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true&hide=["prs"])
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ApurvShah007.ApurvShah007)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ApurvShah007.ApurvShah007)<br />
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
