@@ -44,7 +44,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 <br />
 <br />
 
-[![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)]
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
 
