@@ -42,8 +42,10 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
 <br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvShah007)](https://github.com/anuraghazra/github-readme-stats)
-
+[![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)]
+<br />
+<br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
