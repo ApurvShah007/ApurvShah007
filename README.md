@@ -30,6 +30,8 @@ I am 20 years old and I double major in Computer Science and Mathematics with a 
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
+Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
+
 </h4>
 </div>
 
