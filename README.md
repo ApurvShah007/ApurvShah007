@@ -52,10 +52,9 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
+</details>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 
 
 Leave a ⭐️ if you like this template and want to modify it for yourself!
